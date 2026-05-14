@@ -41,6 +41,7 @@ If the user did NOT specify a scenario, fetch `kickoff-prompts/default.md` and f
 | Skill | Path | When to load |
 |---|---|---|
 | wais-tokens | `skills/wais-tokens.md` | Any work involving colors, text styles, variables, or design tokens |
+| wais-spiels | `skills/wais-spiels.md` | Any work involving localized strings, i18n, language modes, or copy variables |
 | wais-components | `skills/wais-components.md` | Any work using WAIS components (Buttons, Icon Buttons, Status Bar, etc.) |
 | wais-figma-gotchas | `skills/wais-figma-gotchas.md` | ALWAYS when using `use_figma` tool — non-negotiable |
 | wais-screens | `skills/wais-screens.md` | Building or modifying consumer screens |
@@ -64,6 +65,7 @@ If the user did NOT specify a scenario, fetch `kickoff-prompts/default.md` and f
 | `new-screen-build` | `kickoff-prompts/new-screen-build.md` | Build new consumer screens in Figma |
 | `audit-and-fix` | `kickoff-prompts/audit-and-fix.md` | Sweep, audit, remediate consumer file drift |
 | `token-update` | `kickoff-prompts/token-update.md` | Add/modify WAIS tokens, styles, or components |
+| `spiels-update` | `kickoff-prompts/spiels-update.md` | Add/modify localized strings (spiels) and language modes |
 | `default` | `kickoff-prompts/default.md` | Catch-all when no scenario specified |
 
 ---
