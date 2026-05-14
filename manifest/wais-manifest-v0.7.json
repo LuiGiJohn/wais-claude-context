@@ -1,0 +1,73 @@
+{
+  "version": "v0.7",
+  "publishedAt": "2026-05-14",
+  "summary": {
+    "variableCount": 285,
+    "textStyleCount": 19,
+    "effectStyleCount": 3,
+    "componentSetCount": 24,
+    "iconCount": 78,
+    "illustrationCount": 20
+  },
+  "collections": [
+    { "name": "1. Primitives", "variableCount": 77, "modes": ["Value"] },
+    { "name": "2. Tokens", "variableCount": 125, "modes": ["Value"] },
+    { "name": "3. Semantic", "variableCount": 83, "modes": ["Light"] }
+  ],
+  "keyTokens": {
+    "Surface/Page": "735c60249d2d10d64b8d21e1c9e3d2238b92f141",
+    "Surface/Brand-Feature": "6a2e57deba5b11f28ec50eb4f16cc829fb3cab36",
+    "Surface/Brand-Neutral-Light": "b40e26c3fdfc5404fe0e53ed52581a7a88e882b1",
+    "Surface/Brand-Subtle": "57fb7de286dc05e047f158657720a786d0789477",
+    "Surface/Brand-Primary": "637dc7e36bbd2b54a1537e1024947a0a2f673fc2",
+    "Surface/Warning/Default": "e1ee17ef14376e300a11ce5bbc940d904b098776",
+    "Text/Default": "2a22716cc0c6de129ba7f211c952c33d898c4a16",
+    "Text/Secondary": "9ec798ab8c97cc2cb0e140235591312d2f7db529",
+    "Text/Body/Default": "77fde5d02d1e7e70d6e879f3c0a3336770cb58ce",
+    "Text/Brand-Primary": "03f310bd0137967a7161f5850889f88f7effe217",
+    "Text/Action/Link": "b2455b0afe4760adc169eda2342f349679f7dc14",
+    "Text/Warning/On-Warning": "4d57177232889b5cfb93ebf2849bd2ade7ec7478",
+    "Icon/Default/Default": "0561e3db297fd4cf4389ead30387a332f55cbeea",
+    "Icon/Brand-Primary": "5de7e0cd969e049786cf570c5d561e170c647dfa",
+    "Icon/Warning/On-Warning": "fbd19e2936fcde796ad7368025c5e83bc88ba8c9",
+    "Border/Default": "33ed15e7bc8316dcc0e0d8ed14aa6549c5f21cdf"
+  },
+  "textStyles": {
+    "Title/Screen": { "key": "409c95701a9e5053b2cf9031c3708a17817ae448", "weight": "Bold", "size": 34, "lineHeight": "41px", "letterSpacing": "-1%" },
+    "Title/Section": { "key": "45934df35c1ffb95307eb2e358a55925986a5e7f", "weight": "SemiBold", "size": 28, "lineHeight": "34px", "letterSpacing": "-0.28px" },
+    "Title/Subsection": { "key": "c386bfd09e9cefa280aa013b3d9863e85874832f", "weight": "SemiBold", "size": 22, "lineHeight": "28px", "letterSpacing": "-0.5px" },
+    "Title/Display": { "key": "65c85525a0e4...", "weight": "SemiBold", "size": 26, "lineHeight": "32px", "letterSpacing": "-0.26px" },
+    "Title/Group": { "key": "5b0d810b2879ead8f25ea0a16e842cc70b66e713", "weight": "SemiBold", "size": 18, "lineHeight": "24px", "letterSpacing": "-0.18px" },
+    "Body/Large": { "key": "f1da99e8af7f357d0bd6c8470cdf6c245a8f79c1", "weight": "Regular", "size": 20, "lineHeight": "30px" },
+    "Body/Default": { "key": "2cb0a4e8c8cfabe0009f1cc63b050ebd022ad6eb", "weight": "Medium", "size": 16, "lineHeight": "24px", "letterSpacing": "-0.5px" },
+    "Body/Regular": { "key": "19cf9eeff289917d892b4ae83ce41a718d99ddcf", "weight": "Regular", "size": 16, "lineHeight": "24px" },
+    "Body/Small": { "key": "0c00d77ed1fef6c2ebddf5782ac9e3cf04be0671", "weight": "Regular", "size": 14, "lineHeight": "22px" },
+    "Body/Small-Medium": { "key": "2a5f7a34f29bcadace47c2104c5ad0dd14f9f0f3", "weight": "Medium", "size": 14, "lineHeight": "22px" },
+    "Body/Small-SemiBold": { "key": "483b4477a60b0bf7eb65d9d7ef3f877b8e3b1095", "weight": "SemiBold", "size": 14, "lineHeight": "20px" },
+    "Display/Banner": { "key": "8e3f252ac204fdc99a1230bf7b5e178f5fe7083b", "weight": "ExtraBold", "size": 14, "lineHeight": "110%", "letterSpacing": "+1.5%" },
+    "Caption/Default": { "key": "1715d53f4b881b7badafd42d2a7e2b2ee96b3d2a", "weight": "Medium", "size": 12, "lineHeight": "16px" },
+    "Caption/Strong": { "key": "a23ee94e7bb2...", "weight": "Medium", "size": 11, "lineHeight": "14px" },
+    "Caption/Tiny": { "key": "39b22a897bb310744c9a0f31d57b92904b24a52a", "weight": "Medium", "size": 10, "lineHeight": "12px" },
+    "Button/Label-Small": { "key": "372da0657bfc3f3742e00ccd323ad56a1b42005c", "weight": "SemiBold", "size": 14, "lineHeight": "20px", "letterSpacing": "+0.17px" },
+    "Button/Label-Default": { "key": "336716bcc1438caa05dc8f97fd5a9076ae70930d", "weight": "SemiBold", "size": 16, "lineHeight": "24px", "letterSpacing": "+0.5px" },
+    "Link/Default": { "key": "fe15c75254bd...", "weight": "SemiBold", "size": 16, "lineHeight": "24px" },
+    "Link/Large": { "key": "99bae693da5b...", "weight": "SemiBold", "size": 16, "lineHeight": "24px", "letterSpacing": "+1px" }
+  },
+  "keyComponents": {
+    "Status Bar / Style=Light": "177684b4cc794af2c31751a8ec4c5a552141336a",
+    "Status Bar / Style=Dark": "2fb71ec4d74c5f9bab4cabe100d28e35cc88d474",
+    "Home Indicator": "9b12348f6bf149cf145dbec9cf746e6a4f2da6b4",
+    "Top Nav / State=Default": "429579256fcc6d907651a134e8118a952edae9cf",
+    "Bottom Nav / Active Tab=Home": "da5e0cde30bfdc01af0db58e9f42723c94f406ed",
+    "Icon Button / Tertiary,Filled,Default,Default": "cf5b8955256c9e65d66e9f46b0a1f64ef359a02e",
+    "Icon Button / Subtle,Filled,Large,Default": "3e237e9f6dbc88731086607f45d5a23b98074c9d",
+    "Square Button / Primary,Outlined,Default": "b183e79c366698e0b1dee037739a46e559417d45",
+    "Square Button / Primary,Filled,Default": "7efb7df909febf9dcea9bebe762c8aafc41d560f"
+  },
+  "knownGaps": [
+    "Body/Default-Bold style — workaround: bind Body/Default + inline SemiBold override",
+    "Surface/Icon-Button-Neutral token — workaround: inline #DBE4E7 on neutral icon buttons",
+    "Surface/Overlay (with alpha) — workaround: inline rgba(10,18,21, 0.56)",
+    "social_leaderboard icon — workaround: use dt_score (now confirmed exists)"
+  ]
+}
